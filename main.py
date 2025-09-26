@@ -37,4 +37,5 @@ if __name__ != "_main_":
     QTimer.singleShot(3000, splash.close)
     QTimer.singleShot(3000, window.show)
 
+
     sys.exit(app.exec_())
