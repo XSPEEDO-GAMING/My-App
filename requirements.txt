@@ -1,0 +1,5 @@
+sys
+PyQt5.QtWebEngineWidgets
+PyQt5.QtGui
+PyQt5.QtCore
+PyQt5.QtWidgets
